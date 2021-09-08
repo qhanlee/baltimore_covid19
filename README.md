@@ -1,0 +1,2 @@
+# baltimore_covid19
+FIPS for "semi-urban, mid/low socioeconomic status" group of counties used in the report "Baltimore City: County-level Comparisons of COVID-19 cases and deaths". Group was originally created by Wallace et al in Comparison of US County-Level Public Health Performance Rankings With County Cluster and National Rankings: Assessment Based on Prevalence Rates of Smoking and Obesity and Motor Vehicle Crash Death Rates. JAMA Netw Open. 2019;2: e186816. doi:10.1001/jamanetworkopen.2018.6816
